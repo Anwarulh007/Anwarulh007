@@ -18,10 +18,17 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
   <img src="https://media.instamojo.com/imgs/6867ce73890545e68853ba1f00c71496.jpg" alt="SQL" style="width: auto; height: 50px;"/>
 </p>
 * Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
-* App Development: Experienced with Java and Kotlin
-* Core Subjects: DBMS, Operating Systems, Data Structures and Algorithms, Object Oriented Programming
-* Soft Skills: Problem-Solving, Data Analysis, Teamwork, Adaptability, Time Management, Communication
-
+<p align="left">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="HTML" style="width: auto; height: 50px;"/>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" style="width: auto; height: 50px;"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="JavaScript" style="width: auto; height: 50px;"/>
+</p>
+* Data Analysis:
+<p align="left">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="HTML" style="width: auto; height: 50px;"/>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" style="width: auto; height: 50px;"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="JavaScript" style="width: auto; height: 50px;"/>
+</p>
 **Interests:**
 
 * Participating in Coding Competitions
