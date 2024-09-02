@@ -9,26 +9,31 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 * Looking to collaborate on: Medheaven - A system for privacy-preserving using Federated Learning for collaborative healthcare data
 
 **Skills:**
-
-* Programming Languages: Proficient in C, Java, Python, and SQL
+• *Programming Languages: Proficient in C, Java, Python, and SQL
 <p align="left">
   <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" style="width: auto; height: 50px;"/>
   <img src="https://miro.medium.com/v2/resize:fit:4000/0*bpt3hdn8q6Xw4MOZ.png" alt="Java" style="width: auto; height: 50px;"/>
   <img src="https://149842345.v2.pressablecdn.com/wp-content/uploads/2022/05/python-programming-language.jpg" alt="Python" style="width: auto; height: 50px;"/>
   <img src="https://media.instamojo.com/imgs/6867ce73890545e68853ba1f00c71496.jpg" alt="SQL" style="width: auto; height: 50px;"/>
 </p>
-* Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
+
+• *Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
 <p align="left">
   <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="HTML" style="width: auto; height: 50px;"/>
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" style="width: auto; height: 50px;"/>
   <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="JavaScript" style="width: auto; height: 50px;"/>
 </p>
-* Data Analysis:
+
+• *Data Analysis:
 <p align="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="HTML" style="width: auto; height: 50px;"/>
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" style="width: auto; height: 50px;"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="JavaScript" style="width: auto; height: 50px;"/>
+  <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" style="width: auto; height: 50px;"/>
+  <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" alt="matplotlib" style="width: auto; height: 50px;"/>
+  <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" style="width: auto; height: 50px;"/>
+  <img src="https://logosdownload.com/logo/scikit-learn-logo-big.png" alt="Scikit-Learn" style="width: auto; height: 50px;"/>
+  <img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" alt="Seaborn" style="width: auto; height: 50px;"/>
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/1007/104/desktop-wallpaper-tensorflow-logo-high-res-tensorflow.jpg" alt="Tensorflow" style="width: auto; height: 50px;"/>
 </p>
+
 **Interests:**
 
 * Participating in Coding Competitions
