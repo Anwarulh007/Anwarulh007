@@ -4,23 +4,18 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 
 **Currently:**
 
-* ** Working on:**   honing my skills in [mention specific technologies or projects you're working on]
-* ** Learning:** [mention technologies or concepts you're actively learning]
-* ** Looking to collaborate on:** [mention project ideas or areas you'd like to collaborate on with others]
+*  Working on:  honing my skills in Machine Learning.
+*  Learning:  Federated Learning
+*  Looking to collaborate on: Medheaven - A system for privacy preserving using Federated Learning for collaborative healthcare data
 
 **Skills:**
 
 * Programming Languages: Proficient in C, Java, Python, and SQL
+  
 * Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
 * App Development: Experienced with Java and Kotlin
 * Core Subjects: DBMS, Operating Systems, Data Structures and Algorithms, Object Oriented Programming
 * Soft Skills: Problem-Solving, Data Analysis, Teamwork, Adaptability, Time Management, Communication
-
-**Academic Qualifications:**
-
-* B.Tech - Information Technology (CGPA: 8.628) | Techno International New Town | 2021-Present (Expected 2025)
-* 12th Science (PCB), Mathematics (88.75%) | ST. Sebastian's School, CISCE (ISC) | 2021
-* 10th Science (91.80%) | ST. Sebastian's School, CISCE (ICSE) | 2019
 
 **Interests:**
 
