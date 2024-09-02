@@ -10,11 +10,12 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 
 **Skills:**
 
-* Programming Languages: Proficient in C, Java, Python, and SQL
-![C](https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png)
-![Java](https://link-to-your-image.com/image.jpg)
-![Python](https://link-to-your-image.com/image.jpg)
-![SQL](https://link-to-your-image.com/image.jpg)
+**Programming Languages: Proficient in C, Java, Python, and SQL**
+
+<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" style="width: 50px; height: 50px;"/>
+<img src="https://link-to-your-image.com/image.jpg" alt="Java" style="width: 50px; height: 50px;"/>
+<img src="https://link-to-your-image.com/image.jpg" alt="Python" style="width: 50px; height: 50px;"/>
+<img src="https://link-to-your-image.com/image.jpg" alt="SQL" style="width: 50px; height: 50px;"/>
 
 * Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
 * App Development: Experienced with Java and Kotlin
