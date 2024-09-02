@@ -1,17 +1,21 @@
-## Aspiring Software Engineer with Front-end and Data alaysis skills
+# Aspiring Software Engineer with Front-end and Data Analysis Skills
 
 I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Technology. I'm passionate about leveraging my coding, data analysis, and web development skills to drive innovative solutions in a dynamic tech environment.
 
 **Currently:**
 
-*  Working on:  honing my skills in Machine Learning.
-*  Learning:  Federated Learning
-*  Looking to collaborate on: Medheaven - A system for privacy preserving using Federated Learning for collaborative healthcare data
+* Working on: honing my skills in Machine Learning.
+* Learning: Federated Learning
+* Looking to collaborate on: Medheaven - A system for privacy-preserving using Federated Learning for collaborative healthcare data
 
 **Skills:**
 
 * Programming Languages: Proficient in C, Java, Python, and SQL
-  
+![C](https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png)
+![Java](https://link-to-your-image.com/image.jpg)
+![Python](https://link-to-your-image.com/image.jpg)
+![SQL](https://link-to-your-image.com/image.jpg)
+
 * Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
 * App Development: Experienced with Java and Kotlin
 * Core Subjects: DBMS, Operating Systems, Data Structures and Algorithms, Object Oriented Programming
@@ -27,8 +31,8 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 
 **Contact:**
 
-* LinkedIn: [link to your LinkedIn profile]
-* Email: anwarulh0110@gmail.com
+* LinkedIn: [link to your LinkedIn profile](https://www.linkedin.com/in/your-linkedin-username/)
+* Email: anwarul00000000000@gmail.com
 
 **Pronouns:** he/him
 
@@ -36,7 +40,20 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 
 **Here are some of my projects:**
 
-* Student Dropout Analysis App: Developed an Android app analyzing factors behind student dropouts using Java, Python, and the Random Forest algorithm (Link: https://github.com/Anwarulh007/projects)
-* Malware Analysis Tool: Developed a tool for fileless malware detection using dynamic analysis and Python (Link: https://github.com/Anwarulh007/kavach-2k23)
+* Student Dropout Analysis App: Developed an Android app analyzing factors behind student dropouts using Java, Python, and the Random Forest algorithm [Link to Project](https://github.com/Anwarulh007/projects)
+* Malware Analysis Tool: Developed a tool for fileless malware detection using dynamic analysis and Python [Link to Project](https://github.com/Anwarulh007/kavach-2k23)
 
-I'm always eager to learn and grow, so feel free to reach out and connect!
+![Profile Views](https://visitcount.itsvg.in/api?id=AnwarulHaque&label=Profile%20Views&color=12&icon=5&pretty=true)
+
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
