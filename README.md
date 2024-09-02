@@ -46,13 +46,13 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 **Socials**
 <p align="left">
   <a href="https://www.linkedin.com/in/anwarul-haque-2b05002a8/" target="_blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin"/>
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin"style="width: auto; height: 50px;/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100073109558918" target="_blank">
-    <img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" alt="Facebook"/>
+    <img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" alt="Facebook"style="width: auto; height: 50px;/>
   </a>
   <a href="https://www.instagram.com/accounts/onetap/?next=%2F" target="_blank">
-    <img align="center" src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Free-Download.png" alt="instagram"/>
+    <img align="center" src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Free-Download.png" alt="instagram"style="width: auto; height: 50px;/>
   </a>
 </p>
 
