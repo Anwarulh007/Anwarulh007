@@ -56,6 +56,7 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
   </a>
 </p>
 
+
 **Pronouns:** he/him
 
 **Fun fact:** I'm a self-motivated team player with critical thinking skills!
