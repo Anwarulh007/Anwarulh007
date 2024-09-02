@@ -11,11 +11,12 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 **Skills:**
 
 * Programming Languages: Proficient in C, Java, Python, and SQL
-<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" style="width: 50px; height: 50px;"/>
-<img src="https://miro.medium.com/v2/resize:fit:4000/0*bpt3hdn8q6Xw4MOZ.png" alt="Java" style="width: 50px; height: 50px;"/>
-<img src="https://149842345.v2.pressablecdn.com/wp-content/uploads/2022/05/python-programming-language.jpg" alt="Python" style="width: 50px; height: 50px;"/>
-<img src="https://media.instamojo.com/imgs/6867ce73890545e68853ba1f00c71496.jpg" alt="SQL" style="width: 50px; height: 50px;"/>
-
+<p align="left">
+  <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" style="width: auto; height: 50px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4000/0*bpt3hdn8q6Xw4MOZ.png" alt="Java" style="width: auto; height: 50px;"/>
+  <img src="https://149842345.v2.pressablecdn.com/wp-content/uploads/2022/05/python-programming-language.jpg" alt="Python" style="width: auto; height: 50px;"/>
+  <img src="https://media.instamojo.com/imgs/6867ce73890545e68853ba1f00c71496.jpg" alt="SQL" style="width: auto; height: 50px;"/>
+</p>
 * Co-curricular Skills: Proficient in HTML, CSS, and JavaScript
 * App Development: Experienced with Java and Kotlin
 * Core Subjects: DBMS, Operating Systems, Data Structures and Algorithms, Object Oriented Programming
