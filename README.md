@@ -44,11 +44,17 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 * Fitness enthusiast
 
 **Socials**
-
-* LinkedIn: (https://www.linkedin.com/in/anwarul-haque-2b05002a8/)
-* Instagram: (https://www.instagram.com/anwarul_1201/)
-* Facebook: (https://www.facebook.com/profile.php?id=100073109558918)
-* Email: anwarul00000000000@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/anwarul-haque-2b05002a8/" target="_blank">
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100073109558918" target="_blank">
+    <img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/accounts/onetap/?next=%2F" target="_blank">
+    <img align="center" src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Free-Download.png" alt="instagram"/>
+  </a>
+</p>
 
 **Pronouns:** he/him
 
@@ -56,20 +62,12 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 
 **Here are some of my projects:**
 
-* Student Dropout Analysis App: Developed an Android app analyzing factors behind student dropouts using Java, Python, and the Random Forest algorithm [Link to Project](https://github.com/Anwarulh007/projects)
-* Malware Analysis Tool: Developed a tool for fileless malware detection using dynamic analysis and Python [Link to Project](https://github.com/Anwarulh007/kavach-2k23)
+* Student Dropout Analysis App: Developed an Android app analyzing factors behind student dropouts using Java, Python, and the Random Forest algorithm
+  [Project Link](https://github.com/Anwarulh007/projects)
+* Malware Analysis Tool: Developed a tool for fileless malware detection using dynamic analysis and Python
+  [Project Link](https://github.com/Anwarulh007/kavach-2k23)
+
+[Email me](mailto:anwarul00000000000@gmail.com)
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=AnwarulHaque&label=Profile%20Views&color=12&icon=5&pretty=true)
 
-### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-</p>
