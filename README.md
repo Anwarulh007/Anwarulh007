@@ -2,13 +2,14 @@
 
 I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Technology. I'm passionate about leveraging my coding, data analysis, and web development skills to drive innovative solutions in a dynamic tech environment.
 
-**Currently:**
+**Currently**
 
 * Working on: honing my skills in Machine Learning.
 * Learning: Federated Learning
 * Looking to collaborate on: Medheaven - A system for privacy-preserving using Federated Learning for collaborative healthcare data
 
-**Skills:**
+**Skills**
+
 • *Programming Languages: Proficient in C, Java, Python, and SQL
 <p align="left">
   <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" style="width: auto; height: 50px;"/>
@@ -34,7 +35,7 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
   <img src="https://e1.pxfuel.com/desktop-wallpaper/1007/104/desktop-wallpaper-tensorflow-logo-high-res-tensorflow.jpg" alt="Tensorflow" style="width: auto; height: 50px;"/>
 </p>
 
-**Interests:**
+**Interests**
 
 * Participating in Coding Competitions
 * Solving Computing problems with logic
@@ -42,9 +43,11 @@ I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Techn
 * Singing and Dancing
 * Fitness enthusiast
 
-**Contact:**
+**Socials**
 
-* LinkedIn: [link to your LinkedIn profile](https://www.linkedin.com/in/your-linkedin-username/)
+* LinkedIn: (https://www.linkedin.com/in/anwarul-haque-2b05002a8/)
+* Instagram: (https://www.instagram.com/anwarul_1201/)
+* Facebook: (https://www.facebook.com/profile.php?id=100073109558918)
 * Email: anwarul00000000000@gmail.com
 
 **Pronouns:** he/him
