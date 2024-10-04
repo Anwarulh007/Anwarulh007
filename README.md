@@ -31,7 +31,7 @@ Hello!, I'm Anwarul Haque, an ambitious B.Tech student specializing in Informati
   <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" alt="matplotlib" style="width: auto; height: 50px;"/>
   <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" style="width: auto; height: 50px;"/>
   <img src="https://logosdownload.com/logo/scikit-learn-logo-big.png" alt="Scikit-Learn" style="width: auto; height: 50px;"/>
-  <img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" alt="Seaborn" style="width: auto; height: 50px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:819/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width: auto; height: 50px;"/>
   <img src="https://e1.pxfuel.com/desktop-wallpaper/1007/104/desktop-wallpaper-tensorflow-logo-high-res-tensorflow.jpg" alt="Tensorflow" style="width: auto; height: 50px;"/>
 </p>
 
