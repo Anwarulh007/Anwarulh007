@@ -30,8 +30,7 @@ Hello!, I'm Anwarul Haque, an ambitious B.Tech student specializing in Informati
   <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" style="width: auto; height: 50px;"/>
   <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" alt="matplotlib" style="width: auto; height: 50px;"/>
   <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" style="width: auto; height: 50px;"/>
-  <img src="https://logosdownload.com/logo/scikit-learn-logo-big.png" alt="Scikit-Learn" style="width: auto; height: 50px;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:819/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width: auto; height: 50px;"/>
+  <img src="https://in.images.search.yahoo.com/search/images;_ylt=Awrx.3tvk7Fn.AEASZy7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=scikit-learn&fr2=piv-web&type=E211IN826G0&fr=mcafee#id=1&iurl=https%3A%2F%2Fimages.g2crowd.com%2Fuploads%2Fproduct%2Fimage%2Fsocial_landscape%2Fsocial_landscape_77c883b19775c25838d2055fc2e7387e%2Fscikit-learn.png&action=click" alt="Scikit-Learn" style="width: auto; height: 50px;"/>
   <img src="https://e1.pxfuel.com/desktop-wallpaper/1007/104/desktop-wallpaper-tensorflow-logo-high-res-tensorflow.jpg" alt="Tensorflow" style="width: auto; height: 50px;"/>
 </p>
 
