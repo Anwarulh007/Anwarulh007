@@ -1,4 +1,4 @@
-# Aspiring Software Engineer with Front-end and Data Analysis Skills
+# Aspiring Software Engineer with Web development and Data Analysis Skills
 
 Hello!, I'm Anwarul Haque, an ambitious B.Tech student specializing in Information Technology. I'm passionate about leveraging my coding, data analysis, and web development skills to drive innovative solutions in a dynamic tech environment.
 
